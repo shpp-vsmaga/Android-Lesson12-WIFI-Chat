@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WIFI Chat</string>
+    <string name="btnSendLabel">Send</string>
+    <string name="edtMessageHint">Enter your message...</string>
+    <string name="btnLoginLabel">Login</string>
+    <string name="edtUsernameLabel">Enter your name</string>
+    <string name="btnSelectColorLabel">Select message color</string>
+    <string name="ColorPickerDialogLabel">Select message color</string>
+    <string name="msgEnterYourName">Enter your name</string>
+    <string name="msgPressBack">Press BACK to exit</string>
+</resources>
